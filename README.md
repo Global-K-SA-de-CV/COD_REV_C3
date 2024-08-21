@@ -1,5 +1,4 @@
-
-# CapÍtulo 3: Listado productos
+# Capítulo 3: Listado productos
 
 ## Estandares
 
