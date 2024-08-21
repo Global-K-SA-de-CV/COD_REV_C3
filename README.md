@@ -1,8 +1,8 @@
-# Capítulo 3: Listado productos
+# Capítulo 3: Listado de productos.
 
-## Estandares
+## Estándares
 
-* Nombre de tablas creadas ya sea desde base o migraciones en plurar.
+* Nombre de tablas creadas, ya sea desde base o migraciones en plurar.
 * Uso de los *factories* para las pruebas en desarrollo.
 * Hacer uso de la variable *fillable* en los modelos para que, al insertar datos, sólo se reciban los datos establecidos.
 * Listado de productos paginados desde el controlador.
